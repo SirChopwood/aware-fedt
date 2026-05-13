@@ -21,5 +21,7 @@
 
 - Ensure NodeJS is installed.
 - Open a terminal to the project directory.
-- run `npm run serve` to start hosting the prebuilt package.
+- run `npm install` to download and prepare all the dependencies.
+- (If building from source) run `npm run package` to start hosting the prebuilt package.
+- run `npm run serve` to start hosting the website.
 - Open your browser of choice and navigate to [Local](http://localhost:3000) or [Network](http://192.168.0.93:3000) URLS.
