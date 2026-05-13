@@ -1,0 +1,68 @@
+{
+    "products": [
+        {
+            "product_title": "Cobalt Blue T-Shirt",
+            "product_image": "blue-t-shirt.png",
+            "product_price_original": "38.80",
+            "product_price_sale": "",
+            "products_colour": "blue",
+            "products_swatch": ["blue", "green", "purple", "red"]
+        },
+        {
+            "product_title": "Green T-Shirt",
+            "product_image": "green-t-shirt.png",
+            "product_price_original": "38.80",
+            "product_price_sale": "",
+            "products_colour": "green",
+            "products_swatch": ["blue", "green", "purple", "red"]
+        },
+        {
+            "product_title": "Purple T-Shirt",
+            "product_image": "purple-t-shirt.png",
+            "product_price_original": "38.80",
+            "product_price_sale": "28.80",
+            "products_colour": "purple",
+            "products_swatch": ["blue", "green", "purple", "red"]
+        },
+        {
+            "product_title": "Red T-Shirt",
+            "product_image": "red-t-shirt.png",
+            "product_price_original": "38.80",
+            "product_price_sale": "0",
+            "products_colour": "red",
+            "products_swatch": ["blue", "green", "purple", "red"]
+        },
+        {
+            "product_title": "Cobalt Blue T-Shirt",
+            "product_image": "blue-t-shirt.png",
+            "product_price_original": "38.80",
+            "product_price_sale": "",
+            "products_colour": "blue",
+            "products_swatch": ["blue", "green", "purple", "red"]
+        },
+        {
+            "product_title": "Green T-Shirt",
+            "product_image": "green-t-shirt.png",
+            "product_price_original": "38.80",
+            "product_price_sale": "",
+            "products_colour": "green",
+            "products_swatch": ["blue", "green", "purple", "red"]
+        },
+        {
+            "product_title": "Purple T-Shirt",
+            "product_image": "purple-t-shirt.png",
+            "product_price_original": "38.80",
+            "product_price_sale": "28.80",
+            "products_colour": "purple",
+            "products_swatch": ["blue", "green", "purple", "red"]
+        },
+        {
+            "product_title": "Red T-Shirt",
+            "product_image": "red-t-shirt.png",
+            "product_price_original": "38.80",
+            "product_price_sale": "0",
+            "products_colour": "red",
+            "products_swatch": ["blue", "green", "purple", "red"]
+        }
+    ]
+}

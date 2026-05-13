@@ -1,0 +1,121 @@
+// OPEN SANS - Main Body
+@font-face {
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: normal;
+  src:
+    local('Open Sans'),
+    url('@/assets/fonts/OpenSans-Regular.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'Open Sans Bold';
+  font-style: normal;
+  font-weight: normal;
+  src:
+    local('Open Sans Bold'),
+    url('@/assets/fonts/OpenSans-Bold.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'Open Sans ExtraBold';
+  font-style: normal;
+  font-weight: normal;
+  src:
+    local('Open Sans ExtraBold'),
+    url('@/assets/fonts/OpenSans-ExtraBold.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'Open Sans Italic';
+  font-style: normal;
+  font-weight: normal;
+  src:
+    local('Open Sans Italic'),
+    url('@/assets/fonts/OpenSans-Italic.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'Open Sans Light';
+  font-style: normal;
+  font-weight: normal;
+  src:
+    local('Open Sans Light'),
+    url('@/assets/fonts/OpenSans-Light.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'Open Sans Medium';
+  font-style: normal;
+  font-weight: normal;
+  src:
+    local('Open Sans Medium'),
+    url('@/assets/fonts/OpenSans-Medium.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'Open Sans SemiBold';
+  font-style: normal;
+  font-weight: normal;
+  src:
+    local('Open Sans SemiBold'),
+    url('@/assets/fonts/OpenSans-SemiBold.ttf') format('truetype');
+}
+
+// FUTURA PT - Headings
+@font-face {
+  font-family: 'Futura PT Book';
+  font-style: normal;
+  font-weight: normal;
+  src:
+    local('Futura PT Book'),
+    url('@/assets/fonts/FuturaCyrillicBook.woff') format('woff');
+}
+
+@font-face {
+  font-family: 'Futura PT Light';
+  font-style: normal;
+  font-weight: normal;
+  src:
+    local('Futura PT Light'),
+    url('@/assets/fonts/FuturaCyrillicLight.woff') format('woff');
+}
+
+@font-face {
+  font-family: 'Futura PT Medium';
+  font-style: normal;
+  font-weight: normal;
+  src:
+    local('Futura PT Medium'),
+    url('@/assets/fonts/FuturaCyrillicMedium.woff') format('woff');
+}
+
+@font-face {
+  font-family: 'Futura PT Demi';
+  font-style: normal;
+  font-weight: normal;
+  src:
+    local('Futura PT Demi'),
+    url('@/assets/fonts/FuturaCyrillicDemi.woff') format('woff');
+}
+
+@font-face {
+  font-family: 'Futura PT Heavy';
+  font-style: normal;
+  font-weight: normal;
+  src:
+    local('Futura PT Heavy'),
+    url('@/assets/fonts/FuturaCyrillicHeavy.woff') format('woff');
+}
+
+@font-face {
+  font-family: 'Futura PT Bold';
+  font-style: normal;
+  font-weight: normal;
+  src:
+    local('Futura PT Bold'),
+    url('@/assets/fonts/FuturaCyrillicBold.woff') format('woff');
+}
+
+@font-face {
+  font-family: 'Futura PT Extra Bold';
+  font-style: normal;
+  font-weight: normal;
+  src:
+    local('Futura PT Extra Bold'),
+    url('@/assets/fonts/FuturaCyrillicExtraBold.woff') format('woff');
+}
